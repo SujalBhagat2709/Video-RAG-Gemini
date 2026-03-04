@@ -69,8 +69,3 @@ A Streamlit demo that allows you to upload videos and chat with them using Googl
 - [Streamlit](https://streamlit.io/) - Web app framework
 - [Google Gemini API](https://ai.google.dev/gemini-api) - Multimodal AI capabilities
 - [Python](https://python.org/) - Backend processing
-
----
-
-*Part of the AI Engineering Hub - Building practical AI applications*
-
